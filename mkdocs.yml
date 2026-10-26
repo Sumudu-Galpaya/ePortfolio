@@ -1,0 +1,22 @@
+site_name: Sumudu Priyadarshika Galpayage Dona - ePortfolio
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+
+nav:
+  - Introduction: index.md
+  - Courses:
+      - Semester 1: subjects/semester1.md
+      - Semester 2: subjects/semester2.md
+      - Semester 3: subjects/semester3.md
+      - Semester 4: subjects/semester4.md
+      - Semester 5: subjects/semester5.md
+  - Presentations: projects/presentations.md
+  - Projects and Assignments: projects/index.md
+  - Internship: projects/internship.md
+  - Master Thesis: projects/thesis.md
+  - Publications: projects/publications.md
