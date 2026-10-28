@@ -9,12 +9,14 @@ theme:
 
 nav:
   - Introduction: index.md
-  - Courses:
-      - Semester 1: subjects/semester1.md
-      - Semester 2: subjects/semester2.md
-      - Semester 3: subjects/semester3.md
-      - Semester 4: subjects/semester4.md
-      - Semester 5: subjects/semester5.md
+  - Master Degree in Applied Geoinformatics:
+      - Module 11: subjects/module11.md
+      - Module 12: subjects/module12.md
+      - Module 13: subjects/module13.md
+      - Module 14: subjects/module14.md
+      - Module 15: subjects/module15.md
+      - Module 16: subjects/module16.md
+      - Module 17: subjects/module17.md
   - Presentations: projects/presentations.md
   - Projects and Assignments: projects/index.md
   - Internship: projects/internship.md
