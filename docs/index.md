@@ -16,7 +16,7 @@ I am an environmental scientist with more than fifteen years of combined experie
 ## Professional Experience
 
 - More than 8 years in the marine pollution prevention sector, working on the protection and management of coastal and marine environments.  
-- More than 7.5 years as a secondary school science teacher, developing strong skills in teaching, mentoring, and explaining complex scientific concepts in an accessible way.
+- Over 7 years as a secondary school science teacher, developing strong skills in teaching, mentoring, and explaining complex scientific concepts in an accessible way.
 
 ## Research and Interests
 
