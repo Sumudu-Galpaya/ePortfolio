@@ -1,0 +1,45 @@
+site_name: Sumudu Priyadarshika Galpayage - ePortfolio - Master Degree in Applied Geoinformatics - Paris Lodron University of Salzburg - Austria
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - content.code.copy
+
+nav:
+  - Introduction: index.md
+
+  - Modules Completed:
+      - Overview: subjects/index.md
+
+      - Prerequisites:
+          - Subject 1: subjects/prerequisites/subject1/Geoinformatics.md
+          - Subject 2: subjects/prerequisites/subject2/mooc.md
+          - Subject 3: subjects/prerequisites/subject3/subject3.md
+          - Subject 4: subjects/prerequisites/subject4/subject4.md
+          - Subject 5: subjects/prerequisites/subject5/subject5.md
+          - Subject 6: subjects/prerequisites/subject6/subject6.md
+
+      - Module 11 - Propedeutics and Electives:
+          - Subject 1: subjects/module11/orientation.md
+          - Subject 2: subjects/module11/scientificmethods.md
+          - Subject 3: subjects/module11/disastermgt.md
+          - Subject 4: subjects/module11/resoucerecycle.md
+          - Subject 5: subjects/module11/Esri1.md
+
+      - Module 12 - GIScience Theory and Research Methods: subjects/module12.md
+      - Module 13 - Methods in Geoinformatics: subjects/module13.md
+      - Module 14 - Spatial Analysis and Modelling: subjects/module14.md
+      - Module 15 - Geo Application Development: subjects/module15.md
+      - Module 16 - Spatial Data Infrastructures: subjects/module16.md
+      - Module 17 - Interdisciplinary/Integrated/Interactive Project: subjects/module17.md
+
+  - Presentations: projects/presentations.md
+  - Projects: projects/projects.md
+  - Assignments: projects/assignments.md
+  - Internship: projects/internship.md
+  - Master Thesis: projects/thesis.md
+  - Publications: projects/publications.md
