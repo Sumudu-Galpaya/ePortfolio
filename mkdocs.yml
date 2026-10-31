@@ -11,6 +11,13 @@ theme:
 nav:
   - Introduction: index.md
   - Modules Completed:
+      - Prerequisites:
+            - Subject 1:
+            - Subject 2:
+            - Subject 3:
+            - Subject 4:
+            - Subject 5:
+            - Subject 6: 
       - Module 11 - Propedeutics and Electives:
           - Subject 1: subjects/module11/subject1.md
           - Subject 2: subjects/module11/subject2.md
